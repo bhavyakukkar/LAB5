@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LAB5</string>
+
+    <string name="username_text">Enter username:</string>
+    <string name="password_text">Enter password:</string>
+    <string name="login_button_text">Log In</string>
+
+    <string name="logo_description">Company Logo</string>
+
+    <string name="username_input_text">Username</string>
+    <string name="username_input_hint_text">Enter Username</string>
+
+    <string name="password_input_text">Password</string>
+    <string name="password_input_hint_text">Enter Password</string>
+
+    <string name="admin_username">bhavya</string>
+    <string name="admin_password">12345</string>
+
+
+    <string name="name_text">Enter Full Name:</string>
+    <string name="name_input_text">Full Name</string>
+    <string name="name_input_hint_text">Enter your full name</string>
+
+    <string name="age_text">Enter Age:</string>
+    <string name="age_input_text">Age</string>
+    <string name="age_input_hint_text">Enter your age</string>
+
+    <string name="cia1_text">CIA 1:</string>
+    <string name="cia2_text">CIA 2:</string>
+    <string name="cia3_text">CIA 3:</string>
+
+    <string name="cia1_marks_hint_text">Enter your marks obtained in CIA 1.</string>
+    <string name="cia2_marks_hint_text">Enter your marks obtained in CIA 2.</string>
+    <string name="cia3_marks_hint_text">Enter your marks obtained in CIA 3.</string>
+
+    <string name="total_marks">/20</string>
+    <string name="no_marks">--</string>
+
+    <string name="calculate_button_text">Calculate</string>
+</resources>
