@@ -16,10 +16,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        initialize();
+        initializeSources();
     }
 
-    private void initialize() {
+    private void initializeSources() {
         final EditText username = (EditText) findViewById(R.id.usernameInput);
         final EditText password = (EditText) findViewById(R.id.passwordInput);
 

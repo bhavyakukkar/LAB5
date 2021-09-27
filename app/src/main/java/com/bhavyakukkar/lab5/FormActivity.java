@@ -15,10 +15,10 @@ public class FormActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_form);
 
-        initialize();
+        initializeSources();
     }
 
-    private void initialize() {
+    private void initializeSources() {
         final EditText name = (EditText) findViewById(R.id.nameInput);
         final EditText age = (EditText) findViewById(R.id.ageInput);
 
